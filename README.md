@@ -6,6 +6,8 @@ A research project exploring the adaptation of diffusion models from image gener
 
 Can diffusion models, originally designed for continuous image data, successfully generate coherent and stylistically authentic poetic text when adapted with appropriate conditioning mechanisms and embedding strategies?
 
+**📄 For detailed research methodology, architecture deep-dives, and comprehensive analysis, see [TextDiffusion-Research_Details.md](./TextDiffusion-Research_Details.md)**
+
 ## Novel Contributions
 
 ### 1. Weight-Tied Decoding Strategy
