@@ -164,8 +164,3 @@ Despite being adapted from image generation, the diffusion model successfully:
 This research proves that diffusion models can successfully generate stylistically authentic poetic text, despite being designed for continuous image data. The weight-tied decoding innovation enables trainable embeddings to self-organize for effective generation.
 
 While transformers currently produce more grammatically coherent sonnets, diffusion models offer unique advantages in creative exploration and controllable generation. The promising results—authentic vocabulary, thematic coherence, and responsive conditioning—suggest diffusion-based text generation could become valuable for applications requiring controlled creativity.
-
-
-## License
-
-Educational research project
